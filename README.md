@@ -2,6 +2,9 @@
 
 Convert cURL syntax to native Python, Go, PHP, JavaScript, and R HTTP code
 
+## Change
+create github releate tag, install use zip, not git.
+
 ## Live Demo
 
 https://curl.trillworks.com

@@ -1,5 +1,5 @@
 {
-  "name": "curlconverter",
+  "name": "curlconverter-release",
   "version": "2.2.0",
   "description": "convert curl syntax to native python and javascript http code",
   "homepage": "https://github.com/NickCarneiro/curlconverter",
